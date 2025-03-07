@@ -1,0 +1,11 @@
+.group:hover .group-hover\:filter {
+  filter: drop-shadow(0 0 0.75rem var(--tw-drop-shadow-color));
+}
+
+.group:hover .group-hover\:drop-shadow-lg {
+  filter: drop-shadow(0 0 0.75rem var(--tw-drop-shadow-color));
+}
+
+.group:hover {
+  border-color: var(--border-hover-color) !important;
+}
